@@ -1,6 +1,6 @@
 {
-  "name": "kayn",
-  "version": "0.10.2",
+  "name": "kayn-darkin",
+  "version": "0.10.4",
   "main": "index.js",
   "scripts": {
     "example": "yarn lint-example; yarn build && babel ./example.js -o ./example.babel.js && node example.babel.js",
@@ -20,8 +20,8 @@
     "generate-api-cov": "babel-node ./_scripts/generate_api_cov_button"
   },
   "types": "./typings/index.d.ts",
-  "repository": "https://github.com/cnguy/kayn.git",
-  "author": "Chau Nguyen <chautnguyen96@gmail.com>",
+  "repository": "https://github.com/annnoo/kayn-darkin.git",
+  "author": "Annnoo <dev@annnoo.me>",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.26.0",

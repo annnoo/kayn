@@ -1,11 +1,7 @@
-A small Node.js library to work with Riot's League of Legend's API.
+A small Node.js library to work with Riot's League of Legend's API based on cnguys library
 
 [![NPM](https://nodei.co/npm/kayn.png)](https://nodei.co/npm/kayn/)
 
-[![Build Status](https://travis-ci.org/cnguy/kayn.svg?branch=master)](https://travis-ci.org/cnguy/kayn)
-[![API Cov. Badge](/_pictures/api_cov.png?raw=true "API Cov. Badge")](https://github.com/cnguy/kayn/blob/master/ENDPOINTS.md)
-[![codecov](https://codecov.io/gh/cnguy/kayn/branch/master/graph/badge.svg)](https://codecov.io/gh/cnguy/kayn)
-[![dependencies Status](https://david-dm.org/cnguy/kayn/status.svg)](https://david-dm.org/cnguy/kayn)
 
 <details><summary>Simple example using promises and callbacks</summary>
 
@@ -183,13 +179,13 @@ The minimum required [Node.js version is v7.6.0](https://nodejs.org/en/blog/rele
 ## npm
 
 ```sh
-npm i --save kayn
+npm i --save kayn-darkin
 ```
 
 ## yarn
 
 ```sh
-yarn add kayn
+yarn add kayn-darkin
 ```
 
 ### Quick Setup with [Default Config](https://github.com/cnguy/kayn/blob/master/lib/KaynConfig.js)
